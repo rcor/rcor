@@ -1,4 +1,8 @@
 ## Rodolfo Cordero Sancho
+Experienced Developer, QA and DevOps engineer focused on QA and DevOps processes and technology. Developer background comfortable with Agile/SCRUM methodology and capable to design and implement complex architecture. Capacity to mentoring new technologies to teams and co-workers.
+
+Strong experience on Amazon WebServices, focus in architecture design and implementation on the cloud with best practices and security
+
 ```
                     ____
                  _.' :  `._
